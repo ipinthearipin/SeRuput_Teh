@@ -33,7 +33,7 @@ SeRuput_Teh/
 ├── bin/                       # Compiled class files
 ├── .classpath, .project       # Eclipse project configs
 ├── module-info.java           # Java module declaration (Java 9+)
-└── README.md                  # Project description
+README.md                  # Project description
 ```
 
 ---
